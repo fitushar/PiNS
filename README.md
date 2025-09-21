@@ -111,7 +111,7 @@ cd PiNS
 
 
 ### Image Specifications
-- **Format**: NIfTI (.nii.gz) or DICOM
+- **Format**: NIfTI (.nii.gz)
 - **Modality**: CT chest/abdomen/CAP scans
 - **Resolution**: 0.5-2.0 mm isotropic (preferred)
 - **Matrix size**: 512×512 or larger
@@ -253,12 +253,13 @@ We welcome collaborations from:
 ### Primary Citation
 ```bibtex
 @software{pins2025,
-  title={PiNS: Point-driven Nodule Segmentation Toolkit for Quantitative CT Analysis},
+  title={PiNS: Point-driven Nodule Segmentation Toolkit },
   author={Fakrul Islam Tushar},
   year={2025},
   url={https://github.com/fitushar/PiNS},
   version={1.0.0},
-  doi={10.5281/zenodo.xxxxx}
+  doi={10.5281/zenodo.17171571},
+  license={CC-BY-NC-4.0}
 }
 ```
 
