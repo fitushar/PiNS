@@ -1,0 +1,6 @@
+{
+    "binWidth": 25,              
+    "resampledPixelSpacing": [1, 1, 1],        
+    "interpolator": "sitkBSpline",          
+    "labelInterpolator": "sitkNearestNeighbor"
+}

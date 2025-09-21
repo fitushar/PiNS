@@ -1,0 +1,159 @@
+2025-09-21 14:47:42 - INFO - Output CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.csv
+2025-09-21 14:47:42 - INFO - Error CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm_Error.csv
+2025-09-21 14:47:42 - INFO - Log File Created: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.log
+2025-09-21 14:47:42 - INFO - File names generated successfully.
+2025-09-21 14:47:42 - INFO - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-09-21 14:47:42 - INFO - Enabled image types: {'Original': {}}
+2025-09-21 14:47:42 - INFO - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-09-21 14:47:42 - INFO - Applying custom setting overrides: {'binWidth': 25, 'resampledPixelSpacing': [1, 1, 1], 'interpolator': 23, 'labelInterpolator': 1}
+2025-09-21 14:47:42 - INFO - ---Loading---: 1
+2025-09-21 14:47:42 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 14:47:42 - INFO - Number of Annotations:2
+2025-09-21 14:47:46 - INFO - Calculating features with label: 1
+2025-09-21 14:47:46 - INFO - Loading image and mask
+2025-09-21 14:47:59 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [23, 21, 20]
+2025-09-21 14:48:09 - INFO - Computing shape
+2025-09-21 14:48:09 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 14:48:09 - INFO - Calculating features for original image
+2025-09-21 14:48:09 - INFO - Computing firstorder
+2025-09-21 14:48:09 - INFO - Computing glcm
+2025-09-21 14:48:09 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 14:48:09 - INFO - Computing gldm
+2025-09-21 14:48:09 - INFO - Computing glrlm
+2025-09-21 14:48:09 - INFO - Computing glszm
+2025-09-21 14:48:09 - INFO - Computing ngtdm
+2025-09-21 14:48:10 - INFO - Calculating features with label: 1
+2025-09-21 14:48:10 - INFO - Loading image and mask
+2025-09-21 14:48:23 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [27, 24, 23]
+2025-09-21 14:48:32 - INFO - Computing shape
+2025-09-21 14:48:32 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 14:48:32 - INFO - Calculating features for original image
+2025-09-21 14:48:32 - INFO - Computing firstorder
+2025-09-21 14:48:32 - INFO - Computing glcm
+2025-09-21 14:48:32 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 14:48:32 - INFO - Computing gldm
+2025-09-21 14:48:32 - INFO - Computing glrlm
+2025-09-21 14:48:32 - INFO - Computing glszm
+2025-09-21 14:48:32 - INFO - Computing ngtdm
+2025-09-21 14:48:32 - INFO - ---Loading---: 2
+2025-09-21 14:48:32 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 14:48:32 - INFO - Number of Annotations:1
+2025-09-21 14:48:35 - INFO - Calculating features with label: 1
+2025-09-21 14:48:35 - INFO - Loading image and mask
+2025-09-21 14:48:47 - INFO - Applying resampling from spacing [0.70703125 0.70703125 0.60000002] and size [512 512 569] to spacing [1. 1. 1.] and size [26, 25, 25]
+2025-09-21 14:48:56 - INFO - Computing shape
+2025-09-21 14:48:56 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 14:48:56 - INFO - Calculating features for original image
+2025-09-21 14:48:56 - INFO - Computing firstorder
+2025-09-21 14:48:56 - INFO - Computing glcm
+2025-09-21 14:48:57 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 14:48:57 - INFO - Computing gldm
+2025-09-21 14:48:57 - INFO - Computing glrlm
+2025-09-21 14:48:57 - INFO - Computing glszm
+2025-09-21 14:48:57 - INFO - Computing ngtdm
+2025-09-21 15:57:54 - INFO - Output CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.csv
+2025-09-21 15:57:54 - INFO - Error CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm_Error.csv
+2025-09-21 15:57:54 - INFO - Log File Created: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.log
+2025-09-21 15:57:54 - INFO - File names generated successfully.
+2025-09-21 15:57:54 - INFO - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-09-21 15:57:54 - INFO - Enabled image types: {'Original': {}}
+2025-09-21 15:57:54 - INFO - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-09-21 15:57:54 - INFO - Applying custom setting overrides: {'binWidth': 25, 'resampledPixelSpacing': [1, 1, 1], 'interpolator': 23, 'labelInterpolator': 1}
+2025-09-21 15:57:54 - INFO - ---Loading---: 1
+2025-09-21 15:57:54 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 15:57:54 - INFO - Number of Annotations:2
+2025-09-21 15:57:58 - INFO - Calculating features with label: 1
+2025-09-21 15:57:58 - INFO - Loading image and mask
+2025-09-21 15:58:09 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [23, 21, 20]
+2025-09-21 15:58:19 - INFO - Computing shape
+2025-09-21 15:58:19 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 15:58:19 - INFO - Calculating features for original image
+2025-09-21 15:58:19 - INFO - Computing firstorder
+2025-09-21 15:58:19 - INFO - Computing glcm
+2025-09-21 15:58:19 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 15:58:19 - INFO - Computing gldm
+2025-09-21 15:58:19 - INFO - Computing glrlm
+2025-09-21 15:58:19 - INFO - Computing glszm
+2025-09-21 15:58:19 - INFO - Computing ngtdm
+2025-09-21 15:58:20 - INFO - Calculating features with label: 1
+2025-09-21 15:58:20 - INFO - Loading image and mask
+2025-09-21 15:58:32 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [27, 24, 23]
+2025-09-21 15:58:42 - INFO - Computing shape
+2025-09-21 15:58:42 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 15:58:42 - INFO - Calculating features for original image
+2025-09-21 15:58:42 - INFO - Computing firstorder
+2025-09-21 15:58:42 - INFO - Computing glcm
+2025-09-21 15:58:42 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 15:58:42 - INFO - Computing gldm
+2025-09-21 15:58:42 - INFO - Computing glrlm
+2025-09-21 15:58:42 - INFO - Computing glszm
+2025-09-21 15:58:42 - INFO - Computing ngtdm
+2025-09-21 15:58:43 - INFO - ---Loading---: 2
+2025-09-21 15:58:43 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 15:58:43 - INFO - Number of Annotations:1
+2025-09-21 15:58:45 - INFO - Calculating features with label: 1
+2025-09-21 15:58:45 - INFO - Loading image and mask
+2025-09-21 15:58:58 - INFO - Applying resampling from spacing [0.70703125 0.70703125 0.60000002] and size [512 512 569] to spacing [1. 1. 1.] and size [26, 25, 25]
+2025-09-21 15:59:08 - INFO - Computing shape
+2025-09-21 15:59:08 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 15:59:08 - INFO - Calculating features for original image
+2025-09-21 15:59:08 - INFO - Computing firstorder
+2025-09-21 15:59:08 - INFO - Computing glcm
+2025-09-21 15:59:08 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 15:59:08 - INFO - Computing gldm
+2025-09-21 15:59:08 - INFO - Computing glrlm
+2025-09-21 15:59:08 - INFO - Computing glszm
+2025-09-21 15:59:08 - INFO - Computing ngtdm
+2025-09-21 19:03:18 - INFO - Output CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.csv
+2025-09-21 19:03:18 - INFO - Error CSV File: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm_Error.csv
+2025-09-21 19:03:18 - INFO - Log File Created: /app/demofolder/output/PyRadiomics_CandidateSeg_DLCSD24_knn_expand_2.0mm.log
+2025-09-21 19:03:18 - INFO - File names generated successfully.
+2025-09-21 19:03:18 - INFO - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-09-21 19:03:18 - INFO - Enabled image types: {'Original': {}}
+2025-09-21 19:03:18 - INFO - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-09-21 19:03:18 - INFO - Applying custom setting overrides: {'binWidth': 25, 'resampledPixelSpacing': [1, 1, 1], 'interpolator': 23, 'labelInterpolator': 1}
+2025-09-21 19:03:18 - INFO - ---Loading---: 1
+2025-09-21 19:03:18 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 19:03:18 - INFO - Number of Annotations:2
+2025-09-21 19:03:22 - INFO - Calculating features with label: 1
+2025-09-21 19:03:22 - INFO - Loading image and mask
+2025-09-21 19:03:35 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [23, 21, 20]
+2025-09-21 19:03:45 - INFO - Computing shape
+2025-09-21 19:03:45 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 19:03:45 - INFO - Calculating features for original image
+2025-09-21 19:03:45 - INFO - Computing firstorder
+2025-09-21 19:03:45 - INFO - Computing glcm
+2025-09-21 19:03:45 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 19:03:45 - INFO - Computing gldm
+2025-09-21 19:03:45 - INFO - Computing glrlm
+2025-09-21 19:03:45 - INFO - Computing glszm
+2025-09-21 19:03:45 - INFO - Computing ngtdm
+2025-09-21 19:03:46 - INFO - Calculating features with label: 1
+2025-09-21 19:03:46 - INFO - Loading image and mask
+2025-09-21 19:03:59 - INFO - Applying resampling from spacing [0.78125 0.78125 0.625  ] and size [512 512 568] to spacing [1. 1. 1.] and size [27, 24, 23]
+2025-09-21 19:04:10 - INFO - Computing shape
+2025-09-21 19:04:10 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 19:04:10 - INFO - Calculating features for original image
+2025-09-21 19:04:10 - INFO - Computing firstorder
+2025-09-21 19:04:10 - INFO - Computing glcm
+2025-09-21 19:04:10 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 19:04:10 - INFO - Computing gldm
+2025-09-21 19:04:10 - INFO - Computing glrlm
+2025-09-21 19:04:10 - INFO - Computing glszm
+2025-09-21 19:04:10 - INFO - Computing ngtdm
+2025-09-21 19:04:11 - INFO - ---Loading---: 2
+2025-09-21 19:04:11 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 19:04:11 - INFO - Number of Annotations:1
+2025-09-21 19:04:13 - INFO - Calculating features with label: 1
+2025-09-21 19:04:13 - INFO - Loading image and mask
+2025-09-21 19:04:25 - INFO - Applying resampling from spacing [0.70703125 0.70703125 0.60000002] and size [512 512 569] to spacing [1. 1. 1.] and size [26, 25, 25]
+2025-09-21 19:04:35 - INFO - Computing shape
+2025-09-21 19:04:35 - INFO - Adding image type "Original" with custom settings: {}
+2025-09-21 19:04:35 - INFO - Calculating features for original image
+2025-09-21 19:04:35 - INFO - Computing firstorder
+2025-09-21 19:04:35 - INFO - Computing glcm
+2025-09-21 19:04:35 - WARNING - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-09-21 19:04:35 - INFO - Computing gldm
+2025-09-21 19:04:35 - INFO - Computing glrlm
+2025-09-21 19:04:35 - INFO - Computing glszm
+2025-09-21 19:04:35 - INFO - Computing ngtdm

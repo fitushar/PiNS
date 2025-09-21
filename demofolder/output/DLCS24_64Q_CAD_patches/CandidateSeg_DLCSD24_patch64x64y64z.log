@@ -1,0 +1,50 @@
+2025-09-21 08:23:19 - INFO - Output CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.csv
+2025-09-21 08:23:19 - INFO - Error CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z_Error.csv
+2025-09-21 08:23:19 - INFO - Log File Created: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.log
+2025-09-21 08:23:19 - INFO - File names generated successfully.
+2025-09-21 08:23:19 - INFO - ---Loading---: 1
+2025-09-21 08:23:19 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 08:23:19 - INFO - Number of Annotations:2
+2025-09-21 08:23:22 - INFO - ---Loading---: 2
+2025-09-21 08:23:22 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 08:23:22 - INFO - Number of Annotations:1
+2025-09-21 08:45:12 - INFO - Output CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.csv
+2025-09-21 08:45:12 - INFO - Error CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z_Error.csv
+2025-09-21 08:45:12 - INFO - Log File Created: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.log
+2025-09-21 08:45:12 - INFO - File names generated successfully.
+2025-09-21 08:45:12 - INFO - ---Loading---: 1
+2025-09-21 08:45:12 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 08:45:12 - INFO - Number of Annotations:2
+2025-09-21 08:45:15 - INFO - ---Loading---: 2
+2025-09-21 08:45:15 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 08:45:15 - INFO - Number of Annotations:1
+2025-09-21 14:51:26 - INFO - Output CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.csv
+2025-09-21 14:51:26 - INFO - Error CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z_Error.csv
+2025-09-21 14:51:26 - INFO - Log File Created: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.log
+2025-09-21 14:51:26 - INFO - File names generated successfully.
+2025-09-21 14:51:26 - INFO - ---Loading---: 1
+2025-09-21 14:51:26 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 14:51:26 - INFO - Number of Annotations:2
+2025-09-21 14:51:28 - INFO - ---Loading---: 2
+2025-09-21 14:51:28 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 14:51:28 - INFO - Number of Annotations:1
+2025-09-21 16:13:45 - INFO - Output CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.csv
+2025-09-21 16:13:45 - INFO - Error CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z_Error.csv
+2025-09-21 16:13:45 - INFO - Log File Created: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.log
+2025-09-21 16:13:45 - INFO - File names generated successfully.
+2025-09-21 16:13:45 - INFO - ---Loading---: 1
+2025-09-21 16:13:45 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 16:13:45 - INFO - Number of Annotations:2
+2025-09-21 16:13:47 - INFO - ---Loading---: 2
+2025-09-21 16:13:47 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 16:13:47 - INFO - Number of Annotations:1
+2025-09-21 19:05:10 - INFO - Output CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.csv
+2025-09-21 19:05:10 - INFO - Error CSV File: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z_Error.csv
+2025-09-21 19:05:10 - INFO - Log File Created: /app/demofolder/output/DLCS24_64Q_CAD_patches/CandidateSeg_DLCSD24_patch64x64y64z.log
+2025-09-21 19:05:10 - INFO - File names generated successfully.
+2025-09-21 19:05:10 - INFO - ---Loading---: 1
+2025-09-21 19:05:10 - INFO - Loading the Image:DLCS_0001.nii.gz
+2025-09-21 19:05:10 - INFO - Number of Annotations:2
+2025-09-21 19:05:12 - INFO - ---Loading---: 2
+2025-09-21 19:05:12 - INFO - Loading the Image:DLCS_0002.nii.gz
+2025-09-21 19:05:12 - INFO - Number of Annotations:1
