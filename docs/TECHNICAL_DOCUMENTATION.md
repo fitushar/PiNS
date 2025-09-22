@@ -16,10 +16,7 @@
 4. [Technical Specifications](#technical-specifications)
 5. [API Reference](#api-reference)
 6. [Implementation Details](#implementation-details)
-7. [Performance Metrics](#performance-metrics)
-8. [Clinical Applications](#clinical-applications)
-9. [Validation](#validation)
-10. [Future Developments](#future-developments)
+
 
 ---
 
@@ -385,8 +382,6 @@ PiNS/
 
 ---
 
-
-
 ### Computational Efficiency
 
 **Processing Time Analysis**:
@@ -424,12 +419,7 @@ PiNS/
 - Feature vectors for traditional ML
 - Standardized evaluation protocols
 
----
-
-
-
 ## License and Usage Terms
-
 ### Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)
 
 **Permitted Uses**:
@@ -464,7 +454,6 @@ PiNS/
 ```
 
 ---
-
 ## Validation & Quality Assurance
 
 **Evaluation Criteria:** In the absence of voxel-level ground truth, we adopted a bounding box–supervised evaluation strategy to assess segmentation performance. Each CT volume was accompanied by annotations specifying the nodule center in world coordinates and its dimensions in millimeters, which were converted into voxel indices using the image spacing and clipped to the volume boundaries. A binary mask representing the bounding box was then constructed and used as a weak surrogate for ground truth. we extracted a patch centered on the bounding box, extending it by a fixed margin (64 voxels) to define the volume of interest (VOI). Predicted segmentation masks were cropped to the same VOI-constrained region of interest, and performance was quantified in terms of Dice similarity coefficient. Metrics were computed per lesion. This evaluation strategy enables consistent comparison of segmentation algorithms under weak supervision while acknowledging the limitations of not having voxel-level annotations.
@@ -495,10 +484,6 @@ We welcome collaborations from:
 - **Medical AI Companies**
 - **Open Source Contributors**
 
-
-
-
-
 ### Related Publications
 1. **AI in Lung Health: Benchmarking** : [Tushar et al. arxiv (2024)](https://arxiv.org/abs/2405.04605)
 2. **AI in Lung Health: Benchmarking** : [https://github.com/fitushar/AI-in-Lung-Health-Benchmarking](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets)
@@ -507,7 +492,6 @@ We welcome collaborations from:
 6. **Refining Focus in AI for Lung Cancer:** Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
 7. **Peritumoral Expansion Radiomics** for Improved Lung Cancer Classification. [![arXiv](https://img.shields.io/badge/arXiv-2411.16008-<color>.svg)](https://arxiv.org/abs/2411.16008)
 8. **PyRadiomics Framework**: [van Griethuysen et al., Cancer Research 2017](https://pubmed.ncbi.nlm.nih.gov/29092951/)
-
 
 
 ## License & Usage
@@ -520,9 +504,7 @@ You are free to use, modify, and distribute this code under the following condit
 - ❌ Commercial use prohibited without prior written permission
 For commercial licensing inquiries, please contact: tushar.ece@duke.edu
 
-
 ## Support & Community
-
 ### Getting Help
 - **📖 Documentation**: [Comprehensive technical docs](https://github.com/fitushar/PiNS/blob/main/docs/)
 - **🐛 Issues**: [GitHub Issues](https://github.com/fitushar/PiNS/issues)
