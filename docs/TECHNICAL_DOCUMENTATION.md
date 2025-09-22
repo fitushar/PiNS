@@ -472,11 +472,11 @@ PiNS/
 Segmentation performance of **KNN (ours PiNS)**, **VISTA3D auto**, and **VISTA3D points** ([He et al. 2024](https://github.com/Project-MONAI/VISTA/tree/main/vista3d)) across different nodule size buckets. (top) Bar plots display the mean Dice similarity coefficient for each model and size category. (buttom) Boxplots show the distribution of Dice scores, with boxes representing the interquartile range, horizontal lines indicating the median, whiskers extending to 1.5× the interquartile range, and circles denoting outliers.
 
 <p align="center">
-  <img src="assets/Segmentation_Evaluation_KNNVista3Dauto_DLCS24_HIST.png" alt="(a)" width="700">
+  <img src="https://github.com/fitushar/PiNS/blob/main/assets/Segmentation_Evaluation_KNNVista3Dauto_DLCS24_BOX.png" alt="(a)" width="700">
 </p>
 
 <p align="center">
-  <img src="assets/Segmentation_Evaluation_KNNVista3Dauto_DLCS24_BOX.png" alt="(b)" width="700">
+  <img src="https://github.com/fitushar/PiNS/blob/main/assets/Segmentation_Evaluation_KNNVista3Dauto_DLCS24_BOX.png" alt="(b)" width="700">
 </p>
 ## Limitations & Considerations
 
