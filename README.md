@@ -7,8 +7,8 @@
 
 **Medical imaging toolkit for automated pulmonary nodule detection, segmentation, and quantitative analysis**
 
-[![Docker Hub](https://img.shields.io/docker/pulls/ft42/pins?logo=docker)](https://hub.docker.com/r/ft42/pins)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Docker](https://img.shields.io/badge/Docker-ft42%2Fpins%3Alatest-2496ED?logo=docker)](https://hub.docker.com/r/ft42/pins)
 [![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://python.org)
 [![Medical Imaging](https://img.shields.io/badge/Medical-Imaging-red.svg)](https://simpleitk.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8.0-orange.svg)](https://pytorch.org)
