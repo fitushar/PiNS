@@ -14,7 +14,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8.0-orange.svg)](https://pytorch.org)
 [![MONAI](https://img.shields.io/badge/MONAI-1.4.0-blue.svg)](https://monai.io)
 
-[🚀 Quick Start](#quick-start) • [📖 Documentation](https://github.com/ft42/PiNS/blob/main/docs/TECHNICAL_DOCUMENTATION.md) • [💻 GitHub](https://github.com/ft42/PiNS) 🤗 [Hugging Face](https://huggingface.co/ft42/PiNS) • [🐳 Docker Hub](https://hub.docker.com/r/ft42/pins)  
+[🚀 Quick Start](#quick-start) • [📖 Documentation](https://github.com/fitushar/PiNS/blob/main/docs/TECHNICAL_DOCUMENTATION.md) • [💻 GitHub](https://github.com/ft42/PiNS) 🤗 [Hugging Face](https://huggingface.co/ft42/PiNS) • [🐳 Docker Hub](https://hub.docker.com/r/ft42/pins)  
 
 </div>
 
